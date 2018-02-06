@@ -1,0 +1,44 @@
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.deps.json
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csprojResolveAssemblyReference.cache
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csproj.CoreCompileInputs.cache
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.App.xaml.g.cs
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.MainPage.xaml.g.cs
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfoInputs.cache
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfo.cs
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.deps.json
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csprojResolveAssemblyReference.cache
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csproj.CoreCompileInputs.cache
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.App.xaml.g.cs
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.MainPage.xaml.g.cs
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfoInputs.cache
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfo.cs
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.deps.json
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csprojResolveAssemblyReference.cache
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csproj.CoreCompileInputs.cache
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.App.xaml.g.cs
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.MainPage.xaml.g.cs
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfoInputs.cache
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfo.cs
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.deps.json
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\bin\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csproj.CoreCompileInputs.cache
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.App.xaml.g.cs
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.MainPage.xaml.g.cs
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfoInputs.cache
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.AssemblyInfo.cs
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.dll
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.pdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza\obj\Debug\netstandard2.0\CalcDiegoDeSouza.csprojResolveAssemblyReference.cache

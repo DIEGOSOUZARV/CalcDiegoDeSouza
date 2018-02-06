@@ -1,0 +1,153 @@
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.pdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza.apk
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza-Signed.apk
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.dll
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.pdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csprojResolveAssemblyReference.cache
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csproj.CoreCompileInputs.cache
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.dll
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.pdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\bin\com.companyname.CalcDiegoDeSouza.apk
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\icon.png
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\values\styles.xml
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\R.cs.flag
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\uploadflags.txt
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\CalcDiegoDeSouza.Android.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-hdpi\if_calculator_16_171352.png
+c:\users\diego.smelo\source\repos\CalcDiegoDeSouza\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\calc.png
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.pdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza.apk
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza-Signed.apk
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.dll
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.pdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csprojResolveAssemblyReference.cache
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csproj.CoreCompileInputs.cache
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.dll
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.pdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\bin\com.companyname.CalcDiegoDeSouza.apk
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\icon.png
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\values\styles.xml
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-hdpi\if_calculator_16_171352.png
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\calc.png
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\R.cs.flag
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\uploadflags.txt
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\CalcDiegoDeSouza.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.pdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza.apk
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza-Signed.apk
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.dll
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.pdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csprojResolveAssemblyReference.cache
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csproj.CoreCompileInputs.cache
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.dll
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.pdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\bin\com.companyname.CalcDiegoDeSouza.apk
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\icon.png
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xhdpi\icon.png
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\tabbar.xml
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\toolbar.xml
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\values\styles.xml
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-hdpi\if_calculator_16_171352.png
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\calc.png
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\R.cs.flag
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\uploadflags.txt
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\FormsViewGroup.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\CalcDiegoDeSouza.Android.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+T:\Publica\TÉCNICO INFORMÁTICA 204\UC11\ENTREGAS\ATIVIDADE-1\Diego De Souza Melo\Diego De Souza Melo\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.pdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza.apk
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\com.companyname.CalcDiegoDeSouza-Signed.apk
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.dll
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.pdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csprojResolveAssemblyReference.cache
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.csproj.CoreCompileInputs.cache
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.dll
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\CalcDiegoDeSouza.Android.pdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\bin\com.companyname.CalcDiegoDeSouza.apk
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\icon.png
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\values\styles.xml
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable-hdpi\if_calculator_16_171352.png
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\res\drawable\calc.png
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\R.cs.flag
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\uploadflags.txt
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\CalcDiegoDeSouza.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego.smelo\Desktop\CalcDiegoDeSouza\CalcDiegoDeSouza.Android\bin\Debug\CalcDiegoDeSouza.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\CalcDiegoDeSouza.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\CalcDiegoDeSouza.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Web.Services.pdb
